@@ -30,9 +30,10 @@ I have hands-on experience with Java, C++, React.js, Node.js, Express.js and Mon
 
 ---
 
-## 🚀 My Projects
+## 🚀 Projects
 
-### Green Skill Development and Job Matching Platform
+### 1. Green Skill Development and Job Matching Platform
+
 A full-stack platform connecting users with green skill development opportunities and job matching.
 
 **Technologies:** React.js, Node.js, Express.js, MongoDB
@@ -42,24 +43,30 @@ A full-stack platform connecting users with green skill development opportunitie
 - Course enrollment and assessments
 - Automatic certificate generation
 - Job posting and application management
--  Live Demo[](https://client-alpha-jet-54.vercel.app/)
 
-### Attendance Management System
+🔗 **[Live Demo](https://client-alpha-jet-54.vercel.app/)**
+
+*This is an internship project. The deployed application is linked above; its source code is not publicly linked here.*
+
+### 2. Attendance Management System
+
 A desktop application developed using Java Swing and MySQL.
 
 **Technologies:** Java, Swing, MySQL
 
-### Food Delivery Web App
+### 3. Food Delivery Web App
+
 A food delivery web application developed using React.js, Node.js and MongoDB.
 
 **Technologies:** React.js, Node.js, MongoDB
 
-### Personal Portfolio Website
+### 4. Personal Portfolio Website
+
 A personal website showcasing my profile and projects.
 
 **Technologies:** HTML, CSS, JavaScript
 
-[Visit My Portfolio](https://tejaswibhavanitangella.github.io/Portfolio/)
+🔗 **[Visit My Portfolio](https://tejaswibhavanitangella.github.io/Portfolio/)**
 
 ---
 
@@ -69,11 +76,11 @@ A personal website showcasing my profile and projects.
 
 *May 2026 – June 2026*
 
-- Worked on a Green Skill Development and Job Matching Platform.
+- Contributed to a Green Skill Development and Job Matching Platform.
 - Developed full-stack features using React.js, Node.js, Express.js and MongoDB.
-- Worked on authentication and role-based access.
-- Implemented course enrollment, assessments and certificate generation.
-- Worked on job posting, applications, testing and debugging.
+- Worked on JWT authentication and role-based access for different user roles.
+- Implemented course enrollment, assessments and automatic certificate generation.
+- Worked on job posting, application management, testing and debugging.
 
 ---
 
@@ -85,7 +92,16 @@ A personal website showcasing my profile and projects.
 
 ---
 
-## 🏆 Coding Profiles
+## 🏆 Coding Achievements
+
+- Solved 120+ problems on LeetCode.
+- Solved 100+ problems on GeeksforGeeks.
+- Earned 5-star ratings in Java, C and C++ on HackerRank.
+- Earned a 3-star rating in SQL on HackerRank.
+
+---
+
+## 👨‍💻 Coding Profiles
 
 - [LeetCode](https://leetcode.com/u/Tejaswi_1357/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/user/tejaswibhavawmgs/)
@@ -98,6 +114,7 @@ A personal website showcasing my profile and projects.
 - [LinkedIn](https://www.linkedin.com/in/tejaswibhavani-tangella-89b4b1327/)
 - [Portfolio](https://tejaswibhavanitangella.github.io/Portfolio/)
 - [GitHub](https://github.com/tejaswibhavanitangella)
+- Email: tejaswibhavanitangella@gmail.com
 
 ---
 
