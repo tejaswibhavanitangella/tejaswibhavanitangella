@@ -42,6 +42,7 @@ A full-stack platform connecting users with green skill development opportunitie
 - Course enrollment and assessments
 - Automatic certificate generation
 - Job posting and application management
+-  Live Demo[](https://client-alpha-jet-54.vercel.app/)
 
 ### Attendance Management System
 A desktop application developed using Java Swing and MySQL.
