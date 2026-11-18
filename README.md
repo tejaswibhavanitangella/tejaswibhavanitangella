@@ -46,7 +46,6 @@ A full-stack platform connecting users with green skill development opportunitie
 
 🔗 **[Live Demo](https://client-alpha-jet-54.vercel.app/)**
 
-*This is an internship project. The deployed application is linked above; its source code is not publicly linked here.*
 
 ### 2. Attendance Management System
 
